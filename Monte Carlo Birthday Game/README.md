@@ -22,6 +22,7 @@ visualize the probablity getting closer to the expected
 value as the number of trials increased.
 
 ## File Information
+
 **Java files:**
 1. **BirthdayGame** class "plays the game" and runs the simulations
 2. **Person** class holds a birthday as an int
@@ -29,8 +30,6 @@ value as the number of trials increased.
 4. **TestBirthdayGame** contains the main, testing method.
 
 **Other (Results):**
-5. **Birthday Data.xlsx** contains the data from 100,000 trials 
-of a group size of 23. 
-6. **Monte Birthday Output.jpg** is a screenshot of my Eclipse output
-(not the same trial as excel plots)
+5. **Birthday Data.xlsx** contains the data from 100,000 trials of a group size of 23. 
+6. **Monte Birthday Output.jpg** is a screenshot of my Eclipse output (not the same trial as excel plots)
 
