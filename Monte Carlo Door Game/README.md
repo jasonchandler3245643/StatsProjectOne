@@ -4,8 +4,8 @@
 This program is a Monte Carlo simulation of the famous "Price is right" problem described on textbook page
 
 
-## Contents
-**4 Java files:**<br>
+## Content
+**Four Java files:**<br>
 1. **DoorGame** runs the game and keeps track of the wins. It uses an array of length 3 to keep track of each Door.
 Each game randomly assigns the winning door and the player's door. Then, typical games continue by checking if the
 player's door is winning. Alternatively, the game will reveal a dud door and give the player the opprotunity to swap
@@ -21,6 +21,7 @@ and winning when sticking after reveal.<br>
 
 4. **Player:** holds a Door object representing the door they chose.<br><br>
 
+**One output screenshot (jpg)**<br>
 
 ## Textbook pg 34 question 2.20 answer:
 **I also did this in the comment of my main method**
