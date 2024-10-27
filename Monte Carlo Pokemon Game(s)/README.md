@@ -5,10 +5,10 @@ I started fresh for my functional Pokemon game
 
 
 ## Experiment One: Pokemon in opening hand
-1 Pokemon --> 116842/1000000 Pokemon drawn = **11.7%**
-2 Pokemon --> 221139/1000000 Pokemon drawn = **22.1%**
-3 Pokemon --> 314899/1000000 Pokemon drawn = **31.5%**
-4 Pokemon --> 400417/1000000 Pokemon drawn = **40%**
+<br>1 Pokemon --> 116842/1000000 Pokemon drawn = **11.7%**
+<br>2 Pokemon --> 221139/1000000 Pokemon drawn = **22.1%**
+<br>3 Pokemon --> 314899/1000000 Pokemon drawn = **31.5%**
+<br>4 Pokemon --> 400417/1000000 Pokemon drawn = **40%**
 
 **This adheres to the math!**
 **P(At least 1 Pokemon in hand) = 1 - P(No Pokemon in hand)**
@@ -29,10 +29,10 @@ I started fresh for my functional Pokemon game
 
 ## Experiment Two: Rare Candies in prize hand ("bricked" hand)
 
-1 Candy --> 99472/1000000 Candies drawn = .0994 = **10%**
-2 Candy --> 191535/1000000 Candies drawn = **19.2%**
-3 Candy --> 276003/1000000 Candies drawn = **27.6%**
-4 Candy --> 351390/1000000 Candies drawn = **35.1%**
+<br>1 Candy --> 99472/1000000 Candies drawn = .0994 = **10%**
+<br>2 Candy --> 191535/1000000 Candies drawn = **19.2%**
+<br>3 Candy --> 276003/1000000 Candies drawn = **27.6%**
+<br>4 Candy --> 351390/1000000 Candies drawn = **35.1%**
 
 **The concept is the same:**
 **P(At least 1 Candy in hand) = 1 - P(No Candies in hand)**
