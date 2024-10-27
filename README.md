@@ -34,10 +34,6 @@ on the inital try and the probabilities of picking the winning door- after the h
 5. **Function Pokemon Game**: A fully functional Pokemon game. 
 
 
-## Relevant Jars: 
-The 9 Apache Poi jars I added to my classpath.
-I had trouble figuring out which ones I needed, so I added what the errors told me to until I got an output.
-
 
 
 
