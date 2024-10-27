@@ -16,13 +16,13 @@ I started fresh for my functional Pokemon game
 1. One Pokemon in deck --> P(No Pokemon) = (59 C 7) / (60 C 7) = .883
    P(at least 1 Pokemon) = 1 - .883 = .117 = **11.7%**
 
-2. Two Pokemon in deck --> P(No Pokemon) = (58 C 7) / (60 C 7) = .779
+3. Two Pokemon in deck --> P(No Pokemon) = (58 C 7) / (60 C 7) = .779
    P(At least 1 Pokemon) = 1 - .779 = .221 = **22.1%**
 
-3. Three Pokemon in deck --> P(No Pokemon) = (57 C 7) / (60 C 7) = 264,385,836 / 386,206,920 = .685
+5. Three Pokemon in deck --> P(No Pokemon) = (57 C 7) / (60 C 7) = 264,385,836 / 386,206,920 = .685
    P(At least 1 Pokemon) = 1 - .685 = .315 = **31.5%**
 
-4. Three Pokemon in deck --> P(No Pokemon) = (56 C 7) / (60 C 7) = 231,917,400 / 386,206,920 = .60
+6. Three Pokemon in deck --> P(No Pokemon) = (56 C 7) / (60 C 7) = 231,917,400 / 386,206,920 = .60
    P(At least 1 Pokemon) = 1 - .60 = .40 = **40%**
 
 
