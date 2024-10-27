@@ -54,10 +54,10 @@ I started fresh for my functional Pokemon game
 
 **1 Rare Candy in prize hand:**
 Trials with 0 Rare Candies: 5649870
-Trials with 1 Rare Candies: 350130
-Trials with 2 Rare Candies: 0
-Trials with 3 Rare Candies: 0
-Trials with 4 Rare Candies: 0
+<br>Trials with 1 Rare Candies: 350130
+<br>Trials with 2 Rare Candies: 0
+<br>Trials with 3 Rare Candies: 0
+<br>Trials with 4 Rare Candies: 0
 
 **2 Rare Candies in prize hand:**
 Trials with 0 Rare Candies: 5321524
