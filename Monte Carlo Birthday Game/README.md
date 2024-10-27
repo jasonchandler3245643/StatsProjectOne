@@ -28,8 +28,9 @@ value as the number of trials increased.
 3. **PlotDataInExcel** gets the data and puts it into excel
 4. **TestBirthdayGame** contains the main, testing method.
 
-**Birthday Data.xlsx** contains the data from 100,000 trials 
+**Other (Results):**
+5. **Birthday Data.xlsx** contains the data from 100,000 trials 
 of a group size of 23. 
-**Monte Birthday Output** is a screenshot of my Eclipse output
+6. **Monte Birthday Output.jpg** is a screenshot of my Eclipse output
 (not the same trial as excel plots)
 
