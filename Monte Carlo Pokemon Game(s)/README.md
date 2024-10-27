@@ -14,16 +14,16 @@ I started fresh for my functional Pokemon game
 **P(At least 1 Pokemon in hand) = 1 - P(No Pokemon in hand)**
 
 1. One Pokemon in deck --> P(No Pokemon) = (59 C 7) / (60 C 7) = .883
-   P(at least 1 Pokemon) = 1 - .883 = .117 = **11.7%**
+   <br>P(at least 1 Pokemon) = 1 - .883 = .117 = **11.7%**
 
 3. Two Pokemon in deck --> P(No Pokemon) = (58 C 7) / (60 C 7) = .779
-   P(At least 1 Pokemon) = 1 - .779 = .221 = **22.1%**
+   <br>P(At least 1 Pokemon) = 1 - .779 = .221 = **22.1%**
 
 5. Three Pokemon in deck --> P(No Pokemon) = (57 C 7) / (60 C 7) = 264,385,836 / 386,206,920 = .685
-   P(At least 1 Pokemon) = 1 - .685 = .315 = **31.5%**
+   <br>P(At least 1 Pokemon) = 1 - .685 = .315 = **31.5%**
 
 6. Three Pokemon in deck --> P(No Pokemon) = (56 C 7) / (60 C 7) = 231,917,400 / 386,206,920 = .60
-   P(At least 1 Pokemon) = 1 - .60 = .40 = **40%**
+   <br>P(At least 1 Pokemon) = 1 - .60 = .40 = **40%**
 
 
 
@@ -39,16 +39,16 @@ I started fresh for my functional Pokemon game
 **Choose 6 in each step instead of 7 in each formula:**
 
 1. One Candy in deck --> P(No Candies) = (59 C 6) / (60 C 6) = 45,057,474 / 50,063,860 = .90
-   P(at least 1 Candy) = 1 - .90 = .10 = **10%**
+   <br>P(at least 1 Candy) = 1 - .90 = .10 = **10%**
 
 2. Two Candy in deck --> P(No Candies) = (58 C 6) / (60 C 6) = 40,475,358 / 50,063,860 = .808
-   P(At least 1 Candy) = 1 - .808 = .192 = **19.2%**
+   <br>P(At least 1 Candy) = 1 - .808 = .192 = **19.2%**
 
 3. Three Candy in deck --> P(No Candies) = (57 C 6) / (60 C 6) = 36,288,252 / 50,063,860 = .725
-   P(At least 1 Candy) = 1 - .725 = .275 = **~27.6%**
+   <br>P(At least 1 Candy) = 1 - .725 = .275 = **~27.6%**
 
 4. Three Candy in deck --> P(No Candies) = (56 C 6) / (60 C 6) = 32,468,436 / 50,063,860 = .649
-   P(At least 1 Candy) = 1 - .649 = .351 = **35.1%**
+   <br>P(At least 1 Candy) = 1 - .649 = .351 = **35.1%**
 
 ## Experiment Three: How many Rare Candies?
 
