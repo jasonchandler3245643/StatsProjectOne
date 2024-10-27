@@ -1,3 +1,3 @@
 ## Formula Sheets
 
-Contains my beautifully formatted formulas!
+My beautifully formatted formulas!
