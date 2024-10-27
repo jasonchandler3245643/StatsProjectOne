@@ -7,24 +7,29 @@ Each individual assignment has its own folder with all relevant files. Some fold
 The relevant Apache poi jars used to plot Monte Carlo data in excel have their own folder.
 
 
-## Essays
+## Essay
 1. **GitHub Essay:** An overview of why GitHub is important, Git, and how GitHub makes Git more accessible; describes how repositories work and some key words in the process of editing one.  
 
-## Formula Sheets
+## Formula Sheet
 1. **Formula Sheet (1.0-3.5):** Every textbook formula from Section 1.0 to 3.5 beautifully formatted in a Word document using the Equations feature. 
 
+## Excel Assignment
+1. **9/11 Excel Function Practice:** Practice solving for each individual step of standard deviation, including each entry's distance from mean, its square,
+the sum of the squares, the variance, and its square root (standard deviation). It also includes Excel's formula function for comparison. 
+
 ## Java Programs:
-Each program folder has all relevant files inside, including the java files and screenshots of the output. 
+Each program folder has all relevant files inside, including the java files and whatever is relevant to the output. 
 
-1. **StatsLibrary:** Every textbook equation up to Section 3.5 (Geometric Probability Distribution)
+1. **StatsLibrary:** Every textbook equation plus some extras up to Section 3.5 (Geometric Probability Distribution)
 
-2. **Monte Carlo Door Game**: Runs Monte Carlo simulation to represent picking with versus without revealing a dud door. It contains a Word file with the answers to the textbook question; the answers are also in the main method's comments.
+2. **Monte Carlo Door Game**: Runs Monte Carlo simulation of the "Price is Right" door game. It produces the probablity of picking the winning door
+on the inital try and the probabilities of picking the winning door- after the host reveals a door
 
-3. **Monte Carlo Birthday Game**: Runs Monte Carlo simulation to calcualte the probability that two people have the same birthday in a group of a set size with random birthdays.
+4. **Monte Carlo Birthday Game**: Runs Monte Carlo simulation to calcualte the probability that two people have the same birthday in a group of a set size with random birthdays.
 
-4. **Monte Carlo Pokemon Game**: Runs Monte Carlo simulation to calculate the probability of having a Pokemon in the opening hand with ___ Pokemon in the deck and the probability of having at least one Rare Candy in the prize hand ("bricked") given ___ Rare candies in the deck.
+5. **Monte Carlo Pokemon Game**: Runs Monte Carlo simulation to calculate the probability of having a Pokemon in the opening hand with ___ Pokemon in the deck and the probability of having at least one Rare Candy in the prize hand ("bricked") given ___ Rare candies in the deck.
 
-5. **Function Pokemon Game**: A fully functional Pokemon game. 
+6. **Function Pokemon Game**: A fully functional Pokemon game. 
 
 
 ## Relevant Jars: 
