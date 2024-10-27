@@ -1,7 +1,13 @@
 # Monte Carlo Pokemon Game(s)
 
-This program runs two experiments and is based upon the code we did in class a well over a month ago.
-I started fresh for my functional Pokemon game
+This program runs three experiments and is based upon the code we did in class a well over a month ago.
+I started fresh for my functional Pokemon game<br>
+
+## Contents
+8 java files, one jpg screenshot of the output, and an excel file that contains experiments one and two plotted & graphed.
+<br>
+**The CardGame class** runs the game and generates all of the data. It has instance variable of a deck, hand, and prize hand; it also has varaiables to fill the decks/hands properly and variables to calculate probabilities. 
+**The TestCardGame class** creates games with different numbers Pokemon and Rare Candies and runs them.
 
 
 ## Experiment One: Pokemon in opening hand
@@ -23,7 +29,7 @@ I started fresh for my functional Pokemon game
    <br>P(At least 1 Pokemon) = 1 - .685 = .315 = **31.5%**
 
 6. Three Pokemon in deck --> P(No Pokemon) = (56 C 7) / (60 C 7) = 231,917,400 / 386,206,920 = .60
-   <br>P(At least 1 Pokemon) = 1 - .60 = .40 = **40%**
+   <br>P(At least 1 Pokemon) = 1 - .60 = .40 = **40%**<br><br>
 
 
 
@@ -48,7 +54,7 @@ I started fresh for my functional Pokemon game
    <br>P(At least 1 Candy) = 1 - .725 = .275 = **~27.6%**
 
 4. Three Candy in deck --> P(No Candies) = (56 C 6) / (60 C 6) = 32,468,436 / 50,063,860 = .649
-   <br>P(At least 1 Candy) = 1 - .649 = .351 = **35.1%**
+   <br>P(At least 1 Candy) = 1 - .649 = .351 = **35.1%**<br><br>
 
 ## Experiment Three: How many Rare Candies?
 
