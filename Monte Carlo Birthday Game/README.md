@@ -33,3 +33,7 @@ value as the number of trials increased.
 5. **Birthday Data.xlsx** contains the data from 100,000 trials of a group size of 23. 
 6. **Monte Birthday Output.jpg** is a screenshot of my Eclipse output (not the same trial as excel plots)
 
+**Relevant JAR Files**
+I used Apache POI to plot my data in excel, but I struggled figuring out which
+JARs to add. I just followed the errors, adding what they said I was missing to my classpath until they stopped
+and my it properly plotted the data. 
