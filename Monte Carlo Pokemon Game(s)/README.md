@@ -58,28 +58,28 @@ I started fresh for my functional Pokemon game<br>
 
 ## Experiment Three: How many Rare Candies?
 
-**1 Rare Candy in prize hand:**
+**1 Rare Candy in prize hand:**<br>
 Trials with 0 Rare Candies: 5649870
 <br>Trials with 1 Rare Candies: 350130
 <br>Trials with 2 Rare Candies: 0
 <br>Trials with 3 Rare Candies: 0
 <br>Trials with 4 Rare Candies: 0
 
-**2 Rare Candies in prize hand:**
+**2 Rare Candies in prize hand:**<br>
 Trials with 0 Rare Candies: 5321524
 <br>Trials with 1 Rare Candies: 658545
 <br>Trials with 2 Rare Candies: 19931
 <br>Trials with 3 Rare Candies: 0
 <br>Trials with 4 Rare Candies: 0
 
-**3 Rare Candies in prize hand:**
+**3 Rare Candies in prize hand:**<br>
 Trials with 0 Rare Candies: 5008591
 <br>Trials with 1 Rare Candies: 933664
 <br>Trials with 2 Rare Candies: 56717
 <br>Trials with 3 Rare Candies: 1028
 <br>Trials with 4 Rare Candies: 0
 
-**4 Rare Candies in prize hand:**
+**4 Rare Candies in prize hand:**<br>
 Trials with 0 Rare Candies: 4713436
 <br>Trials with 1 Rare Candies: 1176113
 <br>Trials with 2 Rare Candies: 106625
