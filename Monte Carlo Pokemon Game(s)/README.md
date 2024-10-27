@@ -61,22 +61,22 @@ Trials with 4 Rare Candies: 0
 
 **2 Rare Candies in prize hand:**
 Trials with 0 Rare Candies: 5321524
-Trials with 1 Rare Candies: 658545
-Trials with 2 Rare Candies: 19931
-Trials with 3 Rare Candies: 0
-Trials with 4 Rare Candies: 0
+<br>Trials with 1 Rare Candies: 658545
+<br>Trials with 2 Rare Candies: 19931
+<br>Trials with 3 Rare Candies: 0
+<br>Trials with 4 Rare Candies: 0
 
 **3 Rare Candies in prize hand:**
 Trials with 0 Rare Candies: 5008591
-Trials with 1 Rare Candies: 933664
-Trials with 2 Rare Candies: 56717
-Trials with 3 Rare Candies: 1028
-Trials with 4 Rare Candies: 0
+<br>Trials with 1 Rare Candies: 933664
+<br>Trials with 2 Rare Candies: 56717
+<br>Trials with 3 Rare Candies: 1028
+<br>Trials with 4 Rare Candies: 0
 
 **4 Rare Candies in prize hand:**
 Trials with 0 Rare Candies: 4713436
-Trials with 1 Rare Candies: 1176113
-Trials with 2 Rare Candies: 106625
-Trials with 3 Rare Candies: 3791
-Trials with 4 Rare Candies: 35
+<br>Trials with 1 Rare Candies: 1176113
+<br>Trials with 2 Rare Candies: 106625
+<br>Trials with 3 Rare Candies: 3791
+<br>Trials with 4 Rare Candies: 35
 
