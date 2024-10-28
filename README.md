@@ -2,9 +2,7 @@
 
 This project contains 1 Essay, 1 Formula Sheet, 2 Excel Assignments
 and 5 Java programs.
-Each individual assignment has its own folder with all relevant files. Some folders have their own README for specifics.
-
-The relevant Apache poi jars used to plot Monte Carlo data in excel have their own folder.
+Each individual assignment has its own folder with all relevant files. Some folders have their own README for specifics
 
 
 ## Essay
