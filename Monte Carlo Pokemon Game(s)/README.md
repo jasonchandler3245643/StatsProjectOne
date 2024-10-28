@@ -1,7 +1,6 @@
 # Monte Carlo Pokemon Game(s)
 
-This program runs three experiments and is based upon the code we did in class a well over a month ago.
-I started fresh for my functional Pokemon game<br>
+This program runs three experiments Monte Carlo experiments based upon the Pokemon Trading Card Game
 
 ## Contents
 8 java files, one jpg screenshot of the output, and an excel file that contains experiments one and two plotted & graphed.
