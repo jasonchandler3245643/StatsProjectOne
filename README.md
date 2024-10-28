@@ -13,7 +13,7 @@ The relevant Apache poi jars used to plot Monte Carlo data in excel have their o
 ## Formula Sheet
 1. **Formula Sheet (1.0-3.5):** Every textbook formula from Section 1.0 to 3.5 beautifully formatted in a Word document using the Equations feature. 
 
-## Excel Assignment
+## Excel Assignments
 1. **9/11 Excel Function Practice:** Practice solving for each individual step of standard deviation, including each entry's distance from mean, its square,
 the sum of the squares, the variance, and its square root (standard deviation). It also includes Excel's formula function for comparison. 
 
@@ -31,7 +31,7 @@ on the inital try and the probabilities of picking the winning door- after the h
 
 4. **Monte Carlo Pokemon Game**: Runs 3 Monte Carlo Pokemon simulations. It calculates the probability of having a Pokemon in the opening hand with 1, 2, 3, or 4 Pokemon in the deck, the probability of having at least one Rare Candy in the prize hand ("bricked") given 1, 2, 3, or 4 Rare candies in the deck, and the probability of having 0, 1, 2, 3, or 4 Rare Candies in the prize hand when 1, 2, 3, or 4 candies are in the deck.
 
-5. **Functional Pokemon Game**: A fully functional Pokemon game. 
+5. **Functional Pokemon Game**: My best attempt at a Pokemon Trading Card Game
 
 
 
