@@ -5,16 +5,18 @@ A functional Pokemon Trading Card Game Java Program<br>
 ## Game Overview
 Each game has 2 Players<br>
 Each Player has 4 collections of Cards: a deck, hand, prizes, and a bench. <br>
+The default Player constructor calls methods that fills each with random cards. <br> 
+
 
 The game alternates between the user and a computer opponent, allowing them to each perform 6 options per turn.<br>
 Players can swap their active Pokemon, add a Pokemon to their bench, <br>
-evolve their active or a benched Pokemon, attack, or use a Trainer. <br>
+evolve their active Pokemon, attack, or use Trainer cards. <br>
 The user selects which action to perform, the order to perform them in, and what Cards are involved. <br>
 However, the computer opponent will always make one of each move in that specific order with random cards (when possible).<br>
 
 
 The game ends when a Player has 0 prize cards left, a Player has 0 cards in <br>
-their deck, or a Player has no active or benched Pokemon. <br>
+their deck, or a Player has no active OR benched Pokemon. <br>
 
 ## File Information
 **Java Files:** 25 program files <br>
@@ -25,6 +27,19 @@ their deck, or a Player has no active or benched Pokemon. <br>
 2. Each player sets a Pokemon in their hand as active. <br>
 3. The game loops the user's turn and the computer opponent's turn, checking the game's status after each. <br>
 
+## Unique Pokemon 
+1. Charmander, Charmeleon, Charizard<br>
+2. Clefairy, Clefable<br>
+3. Psyduck, Golduck<br>
+4. Foongus, Amoongus<br>
+5. Grimer, Muk<br><br>
+
+## Unique Trainers
+1. Rare Candy: evolves the Player's active Pokemon<br>
+2. Professor's Research: discards the Player's hand then draws 7 cards<br>
+3. Potion: heals the Player's active for 30 hp<br>
+4. Ultra Ball: discards 2 random cards from hand, then adds random Pokemon from deck to hand<br>
+5. Youngster: shuffles hand into deck, then draws 5 cards.
 
 ## Applications of Superclasses/Inheritance
 1. The three types of Cards (Pokemon, Energy, and Trainer) all extend the Card superclass, inheriting its name variable.<br>
@@ -33,4 +48,5 @@ their deck, or a Player has no active or benched Pokemon. <br>
 
 
 <br>
-I enjoyed this assignment. I feel like it tested my ability to design program from top-to-bottom like no others have.
+I enjoyed this assignment. I feel like it tested my ability to design program from top-to-bottom like no others have.<br>
+I learned a lot about inheritance and referencing objects.
