@@ -11,7 +11,7 @@ The default Player constructor calls methods that fills each with random cards. 
 The game alternates between the user and a computer opponent, allowing them to each perform 6 options per turn.<br>
 Players can swap their active Pokemon, add a Pokemon to their bench, <br>
 evolve their active Pokemon, attack, or use Trainer cards. <br>
-The user selects which action to perform, the order to perform them in, and what Cards are involved. However, the computer opponent will always make one of each move in that specific order with random cards (when possible).<br>
+The user selects which action to perform, the order to perform them in, and what Cards are involved. However, the computer opponent will always make one of each move in that specific order with random cards when possible.<br>
 
 
 The game ends when a Player has 0 prize cards left, a Player has 0 cards in <br>
