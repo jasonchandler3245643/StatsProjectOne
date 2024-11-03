@@ -23,7 +23,7 @@ their deck, or a Player has no active or benched Pokemon. <br>
 ## Game Run Through
 1. The game verifies that each Player has a Pokemon in their opening hand. <br>
 2. Each player sets a Pokemon in their hand as active. <br>
-3. The game loops the user's turn and the computer opponent's turn, checking the game's status after each. <br?
+3. The game loops the user's turn and the computer opponent's turn, checking the game's status after each. <br>
 
 
 ## Applications of Superclasses/Inheritance
