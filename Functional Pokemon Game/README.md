@@ -13,8 +13,8 @@ The game ends when a Player has 0 prize cards left, a Player has 0 cards in <br>
 their deck, or a Player has no active or benched Pokemon. <br>
 
 ## File Information
-**Java Files: ** 25 program files <br>
-**Other: ** Screenshots of my output, including me beating the computer
+**Java Files:** 25 program files <br>
+**Other:** Screenshots of my output, including me beating the computer
 
 
 <br>
