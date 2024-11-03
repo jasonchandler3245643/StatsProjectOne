@@ -23,7 +23,7 @@ their deck, or a Player has no active OR benched Pokemon. <br>
 
 **Output Proof #1:** Screenshots of my output where I beat the computer.<br>
 The 3 screenshots show me evolving a Charmander into a Charmeleon, adding the two energies necessary
-for the stage 2 Pokemon <br> to attack, knocking out the opponent's active, getting a prize card from that, <br>
+for the stage 2 Pokemon to attack, knocking out the opponent's active, getting a prize card from that, <br>
 and finally winning because the computer no longer has an active and could not yet add a pokemon to its bench.<br> <br>
 
 **Output Proof #2:** Screenshots of my output where the computer beats me. This example shows off more of the Trainer<br>
