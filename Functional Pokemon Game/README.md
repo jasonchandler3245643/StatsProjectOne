@@ -1,5 +1,16 @@
 # Functional Pokemon Game
 
-A somewhat functional Pokemon Trading Card Game. 
+A functional Pokemon Trading Card Game Java Program<br>
 
-Honestly, I hit a major wall working on this project. All of the groups of cards, the deck, hand, prizes, and bench seem fine. The game loop does too: It alternates between the "user" and "opponent." What I am having trouble with is mostly game logic: I cannot get the two players' active Pokemon to damage eachother. The Pokemon both have a damage and an hp counter, both of which are ints. However, I cannot seem to get one player's active Pokemon's damage to decrease the other's hp. The Game alternates back and forth, allowing for each player to take a turn while their decks do slowly deplete. I know that is true because it outputs hundreds of lines of the players going back-and-forth. 
+Each game has 2 Players<br>
+Each Player has 4 collections of Cards: a deck, hand, prizes, and a bench. <br>
+
+The game alternates between Players, allowing them to each perform 6 options per turn.<br>
+Players can swap their active Pokemon, add a Pokemon to their bench, <br>
+evolve their active or a benched Pokemon, attack, or use a Trainer. <br>
+
+The game ends when a Player has 0 prize cards left, a Player has 0 cards in <br>
+their deck, or a Player has no active or benched Pokemon. <br>
+
+<br>
+I enjoyed this assignment. I feel like it tested my ability to design programs like no previous assignments.
