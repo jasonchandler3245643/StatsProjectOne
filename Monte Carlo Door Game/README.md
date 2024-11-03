@@ -1,7 +1,7 @@
 # Monte Carlo Door Game
 
 ## Description
-This program is a Monte Carlo simulation of the famous "Price is right" problem described on textbook page
+This program is a Monte Carlo simulation of the famous "Price is right" problem described on textbook page 34
 
 
 ## Content
