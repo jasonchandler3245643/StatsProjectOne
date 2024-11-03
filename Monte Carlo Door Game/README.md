@@ -24,14 +24,14 @@ and winning when sticking after reveal.<br>
 **One output screenshot (jpg)**<br>
 
 ## Textbook pg 34 question 2.20 answer:
-**I also did this in the comment of my main method**
+I also answered this in the comment of my main method
 
-Part a)
-The sample space is S = {Prize, Dud1, Dud2}
+Part a)<br>
+The sample space is S = {Prize, Dud1, Dud2}<br>
 Selecting a curtain at random gives the player 
 1/3 shot of selecting the prize door.
 
-Part b)
+Part b)<br>
 The probability of winning by switching is 2/6
 There are two scenarios: <br>
 Originally picked a dud --> the host reveals the other dud and player swaps to the wining door.<br>
