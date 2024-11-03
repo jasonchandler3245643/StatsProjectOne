@@ -40,6 +40,7 @@ their deck, or a Player has no active OR benched Pokemon. <br>
 3. Potion: heals the Player's active for 30 hp<br>
 4. Ultra Ball: discards 2 random cards from hand, then adds random Pokemon from deck to hand<br>
 5. Youngster: shuffles hand into deck, then draws 5 cards.
+6. Nemona: draws 3 cards
 
 ## Applications of Superclasses/Inheritance
 1. The three types of Cards (Pokemon, Energy, and Trainer) all extend the Card superclass, inheriting its name variable.<br>
