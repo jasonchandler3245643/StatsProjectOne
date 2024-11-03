@@ -19,8 +19,16 @@ The game ends when a Player has 0 prize cards left, a Player has 0 cards in <br>
 their deck, or a Player has no active OR benched Pokemon. <br>
 
 ## File Information
-**Java Files:** 25 program files <br>
-**Other:** Screenshots of my output, including me beating the computer
+**Java Files:** 25 program files <br> <br>
+
+**Output Proof #1:** Screenshots of my output where I beat the computer.<br>
+The 3 screenshots show me evolving a Charmander into a Charmeleon, adding the two energies necessary
+for the stage 2 Pokemon <br> to attack, knocking out the opponent's active, getting a prize card from that, <br>
+and finally winning because the computer no longer has an active and could not yet add a pokemon to its bench.<br> <br>
+
+**Output Proof #2:** Screenshots of my output where the computer beats me. This example shows off more of the Trainer<br>
+card functionalities as well as rapidly swapping cards from the hand/bench to active spot.
+
 
 ## Game Run Through
 1. The game verifies that each Player has a Pokemon in their opening hand. <br>
