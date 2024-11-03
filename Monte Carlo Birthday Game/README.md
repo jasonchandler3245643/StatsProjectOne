@@ -12,7 +12,7 @@ changs in the number of simulation wins. I divided that number by
 the simulation number, or the row number.
 
 As expected, the program produces that the odds two people 
-share the same birthday in a group of 27 is ~.50 
+share the same birthday in a group of 23 is ~.50 
 The unintuitive math explanation: P(at least one match) = 1 - P(0 matches),
 P(0 matches) = (365/365) * (364/365) * (363/365) * . . . * (343/365) = ~.4927
 Therefore, P(at least one match) = 1 - .4927 = .5073 = ~ 50%
