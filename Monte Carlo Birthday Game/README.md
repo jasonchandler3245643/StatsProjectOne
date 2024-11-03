@@ -9,13 +9,14 @@ I used Apache poi to make the first column the trial number
 and the second column the probability (in decimal form)
 that at least two share the same bday. I used an array to track 
 changs in the number of simulation wins. I divided that number by 
-the simulation number, or the row number.
+the simulation number, or the row number.<br>
+
 
 As expected, the program produces that the odds two people 
 share the same birthday in a group of 23 is ~.50 
 The unintuitive math explanation: P(at least one match) = 1 - P(0 matches),
 P(0 matches) = (365/365) * (364/365) * (363/365) * . . . * (343/365) = ~.4927
-Therefore, P(at least one match) = 1 - .4927 = .5073 = ~ 50%
+Therefore, P(at least one match) = 1 - .4927 = .5073 = ~ 50%<br>
 
 I manually graphed the data into a scatterplot to 
 visualize the probablity getting closer to the expected
