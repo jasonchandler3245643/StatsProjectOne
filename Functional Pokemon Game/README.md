@@ -16,13 +16,14 @@ their deck, or a Player has no active or benched Pokemon. <br>
 **Java Files:** 25 program files <br>
 **Other:** Screenshots of my output, including me beating the computer
 
-## Game Nuances
-As I am unfamiliar with the rules of the card game, I made slight alterations to the game's rules<br>
-Here is a list of notes about the game: 
-1. Each game starts by having the players each set an active Pokemon
+## Game Run Through
+1. The game verifies that each Player has a Pokemon in their opening hand. <br>
+2. Each player sets a Pokemon in their hand as active. <br>
+3. The user plays their turn by selecting their options. <br>
+4. The computer opponent plays their turn by perform each action once whenever possible. <br>
 
 
-## Applications of ____
+## Applications of Superclasses/Inheritance
 1. The three types of Cards (Pokemon, Energy, and Trainer) all extend the Card superclass, inheriting its name variable.<br>
 2. Each subclass of Trainer overrides the perform() method. All Trainer Cards perform a unique action, but that action is different between them.<br>
 3. The appropriate Pokemon subclasses (non-final evolutions) override the Pokemon class' evolve() method.<br>
