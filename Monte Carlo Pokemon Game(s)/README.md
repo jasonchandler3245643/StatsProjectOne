@@ -4,9 +4,9 @@ This program runs three experiments Monte Carlo experiments based upon the Pokem
 
 ## Contents
 8 java files, one jpg screenshot of the output, and an excel file that contains experiments one and two plotted & graphed.
-<br>
-**The CardGame class** runs the game and generates all of the data. It has instance variable of a deck, hand, and prize hand; it also has varaiables to fill the decks/hands properly and variables to calculate probabilities. 
-**The TestCardGame class** creates games with different numbers Pokemon and Rare Candies and runs them.
+<br><br>
+**The CardGame class** runs the game and generates all of the data. It has instance variable of a deck, hand, and prize hand; it also has varaiables to fill the decks/hands properly and variables to calculate probabilities. <br>
+**The TestCardGame class** creates games with different numbers Pokemon and Rare Candies and runs them.<br>
 
 
 ## Experiment One: Pokemon in opening hand
