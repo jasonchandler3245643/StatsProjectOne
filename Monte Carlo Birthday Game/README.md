@@ -31,7 +31,7 @@ value as the number of trials increased.
 <br>
 **Other (Results):**<br>
 5. **Birthday Data.xlsx** contains the data from 100,000 trials of a group size of 23. <br>
-6. **Monte Birthday Output.jpg** is a screenshot of my Eclipse output (not the same trial as excel plots)<br>
+6. **Monte Birthday Output.jpg** is a screenshot of my Eclipse output (not the same trial as excel plots)<br><br>
 
 **Relevant JAR Files:**
 I used Apache POI to plot my data in excel, but I struggled figuring out which
