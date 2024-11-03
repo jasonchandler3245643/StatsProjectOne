@@ -30,6 +30,15 @@ This program runs three experiments Monte Carlo experiments based upon the Pokem
 6. Three Pokemon in deck --> P(No Pokemon) = (56 C 7) / (60 C 7) = 231,917,400 / 386,206,920 = .60
    <br>P(At least 1 Pokemon) = 1 - .60 = .40 = **40%**<br><br>
 
+### Hypergeometric Distribution:
+We have now learned about hypergeoemtric distribution and can apply it to this problem. <br>
+One Pokemon in deck --> (1 C 1) * (59 C 6) / (60 C 7) = 7/60 = **~11.7%** <br>
+
+Two Pokemon in deck --> ((2 C 1) * (58 C 6) / (60 C 7)) + ((2 C 2) * (58 C 5) / (60 C 7)) = **22.1%**<br>
+This is the probability of having a Pokemon is the sum of the probability of having one Pokemon plus the probability of having 2. <br>
+
+Three Pokemon in deck --> (3 C 1) * (57 C 6) / (60 C 7) = 7/60 = **~11.7%**
+Four Pokemon in deck --> (4 C 1) * (56 C 6) / (60 C 7) = 7/60 = **~11.7%**
 
 
 ## Experiment Two: Rare Candies in prize hand ("bricked" hand)
