@@ -37,6 +37,5 @@ The probability of winning by switching is 2/6<br>
 There are two scenarios: <br>
 Originally picked a dud --> When the host reveals the other dud, the player swaps to the winning door.<br>
 Originally picked the winning door --> When the host reveals a dud, the player swaps to the other dud.<br>
-Since the probability of picking a dud door is 2/3, so is the probability of winning by switching. <br> <br>
-
+Since the probability of picking a dud door is 2/3, so is the probability of winning by switching. <br> 
 The probability of winning by sticking is 1/3, as revealing a door does not alter the player's current door.
