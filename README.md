@@ -31,7 +31,8 @@ on the inital try and the probabilities of picking the winning door- after the h
 
 5. **Functional Pokemon Game**: My Pokemon card game!
 
-
+## In-Class Skills Assessment
+1. A peer-graded assessment I did not turn in during class
 
 
 
