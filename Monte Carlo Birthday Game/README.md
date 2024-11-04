@@ -2,14 +2,15 @@
 
 This program uses Monte Carlo simulation to calculate
 the probability that at least two people in an arbitrary group size
-share the same birthday.
+share the same birthday. Passing an int through the BirthdayGame constructor  
+picks the group size. <br>
 
-It plots the data in excel!
+The program plots the data in excel. <br>
 I used Apache poi to make the first column the trial number
 and the second column the probability (in decimal form)
 that at least two share the same bday. I used an array to track 
 changs in the number of simulation wins. I divided that number by 
-the simulation number, or the row number.<br>
+the simulation number (the row number) to get the probability.<br>
 
 
 As expected, the program produces that the odds two people 
@@ -20,7 +21,7 @@ Therefore, P(at least one match) = 1 - .4927 = .5073 = ~ 50%<br>
 
 I manually graphed the data into a scatterplot to 
 visualize the probablity getting closer to the expected
-value as the number of trials increased.
+value as the number of trials increased. 
 
 ## File Information
 
