@@ -8,7 +8,7 @@ try working with JUnit. <br>
 I used JUnit Jupiter on Eclipse, which added the JARs for me.<br>
 
 ## Content
-**1. Java Program Files: ** The StatsLibrary class, its main tester, and its JUnit.
-**2. Stats Library JUnit Proof: ** A screenshot of my successful JUnit tests (the green bar)
-**3. Stats Library Tester Proof: ** A screenshot of my regular StatsLibrary tester
+**1. Java Program Files: ** The StatsLibrary class, its main tester, and its JUnit.<br>
+**2. Stats Library JUnit Proof: ** A screenshot of my successful JUnit tests (the green bar)<br>
+**3. Stats Library Tester Proof: ** A screenshot of my regular StatsLibrary tester<br>
 
