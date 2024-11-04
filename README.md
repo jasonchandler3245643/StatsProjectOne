@@ -1,7 +1,7 @@
 # Probability and Applied Statistics Project 1
 
 This project contains 1 Essay, 1 Formula Sheet, 2 Excel Assignments
-and 5 Java programs.
+and 5 Java programs, and 1 In-Class Skills Assessment.
 Each individual assignment has its own folder with all relevant files. Some folders have their own README for specifics
 
 
