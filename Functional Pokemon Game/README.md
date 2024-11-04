@@ -6,18 +6,17 @@ A functional Pokemon Trading Card Game Java Program<br>
 Each game has 2 Players<br>
 Each Player has 4 collections of Cards: a deck, hand, prizes, and a bench. <br>
 The default Player constructor calls methods that fills the deck with about 6 of each Card type (Pokemon, Energy, and Trainer) <br>
-To make testing easier and playing faster, I made the deck size significantly smaller. All the card containers are ArrayLists, so to <br>
-increase the deck size, alter the fillDeck() method in Player.
+To make testing easier and playing faster, I made the deck size significantly smaller. All the card containers are ArrayLists, so to increase the deck size, alter the fillDeck() method in Player.
 
 
 The game alternates between the user and a computer opponent, allowing them to each perform 6 options per turn.<br>
 Players can swap their active Pokemon, add a Pokemon to their bench, <br>
-evolve their active Pokemon, attack, or use Trainer cards. <br>
-The user selects which action to perform, the order to perform them in, and what Cards are involved. However, the computer opponent will always make one of each move in that specific order with random cards when possible.<br>
-
+evolve their active Pokemon, attach an energy, attack, or use Trainer cards. <br>
+The user selects which action to perform, the order, and the cards involved. However, the computer opponent
+will make exactly one of each deicision in that order if possible.<br>
 
 The game ends when a Player has 0 prize cards left, a Player has 0 cards in <br>
-their deck, or a Player has no active OR benched Pokemon. <br>
+their deck AND hand, or a Player has no active OR benched Pokemon. <br>
 
 ## File Information
 **Java Files:** 25 program files <br> <br>
