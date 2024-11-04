@@ -2,7 +2,7 @@
 
 This project contains 1 Essay, 1 Formula Sheet, 2 Excel Assignments
 and 5 Java programs, and 1 In-Class Skills Assessment.<br>
-Each individual assignment has its own folder with all relevant files and their own READMEs.<br>
+Each individual assignment has its own folder with all relevant files and its own READMEs.<br>
 
 
 ## Essay
@@ -22,10 +22,10 @@ Each program folder has all relevant files inside, including the java files and 
 
 1. **StatsLibrary:** Every textbook equation plus some extras up to Section 3.5 (Geometric Probability Distribution)
 
-2. **Monte Carlo Door Game**: Runs Monte Carlo simulation of the "Price is Right" door game. It produces the probablity of picking the winning door
-on the inital try and the probabilities of picking the winning door- after the host reveals a door
-
-3. **Monte Carlo Birthday Game**: Runs Monte Carlo simulation to calcualte the probability that two people have the same birthday in a group of a set size with random birthdays. Users can alter the group size and number of Monte Carlo simulations from the parameters in the plotGameSimulationData(BirthdayGame, int trials). That method also plots the data in excel using Apache POI. 
+2. **Monte Carlo Door Game**: Runs Monte Carlo simulation of the "Price is Right" door game. It produces the probability of winning a normal game <br>
+and by winning if the host reveals a door. 
+   
+3. **Monte Carlo Birthday Game**: Runs Monte Carlo simulation to calcualte the probability that two people have the same birthday in a group with random birthdays. Users can alter the group size and number of Monte Carlo simulations from the parameters in the plotGameSimulationData(BirthdayGame, int trials). That method also plots the data in excel using Apache POI. 
 
 4. **Monte Carlo Pokemon Game**: Runs 3 Monte Carlo Pokemon simulations. It calculates the probability of having a Pokemon in the opening hand with 1, 2, 3, or 4 Pokemon in the deck, the probability of having at least one Rare Candy in the prize hand ("bricked") given 1, 2, 3, or 4 Rare candies in the deck, and the probability of having 1, 2, 3, or 4 Rare Candies in prize hand by number of Rare Candies in deck.
 
