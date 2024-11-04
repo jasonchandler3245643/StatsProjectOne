@@ -1,7 +1,8 @@
 # Monte Carlo Door Game
 
 ## Description
-This program is a Monte Carlo simulation of the famous "Price is right" problem described on textbook page 34
+This program is a Monte Carlo simulation of the famous "Price is right" problem described on textbook page 34<br>
+It shows that the odds of winning by swapping is 2/3, whereas the odds by staying are 1/3.<br>
 
 
 ## Content
