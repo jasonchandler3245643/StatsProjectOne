@@ -1,1 +1,1 @@
-**These are two excel assignments we did in class**
+**These are two Excel assignments we did in class**
