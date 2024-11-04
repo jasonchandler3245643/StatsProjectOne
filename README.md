@@ -27,7 +27,7 @@ on the inital try and the probabilities of picking the winning door- after the h
 
 3. **Monte Carlo Birthday Game**: Runs Monte Carlo simulation to calcualte the probability that two people have the same birthday in a group of a set size with random birthdays. Users can alter the group size and number of Monte Carlo simulations from the parameters in the plotGameSimulationData(BirthdayGame, int trials). That method also plots the data in excel using Apache POI. 
 
-4. **Monte Carlo Pokemon Game**: Runs 3 Monte Carlo Pokemon simulations. It calculates the probability of having a Pokemon in the opening hand with 1, 2, 3, or 4 Pokemon in the deck, the probability of having at least one Rare Candy in the prize hand ("bricked") given 1, 2, 3, or 4 Rare candies in the deck, and the probability of having 0, 1, 2, 3, or 4 Rare Candies in the prize hand when 1, 2, 3, or 4 candies are in the deck.
+4. **Monte Carlo Pokemon Game**: Runs 3 Monte Carlo Pokemon simulations. It calculates the probability of having a Pokemon in the opening hand with 1, 2, 3, or 4 Pokemon in the deck, the probability of having at least one Rare Candy in the prize hand ("bricked") given 1, 2, 3, or 4 Rare candies in the deck, and the probability of having 1, 2, 3, or 4 Rare Candies in prize hand by number of Rare Candies in deck.
 
 5. **Functional Pokemon Game**: My Pokemon card game!
 
