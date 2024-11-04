@@ -23,13 +23,13 @@ I manually graphed the data into a scatterplot to
 visualize the probablity getting closer to the expected
 value as the number of trials increased. 
 
-## File Information
+## Content
 
 **Java files:**
-1. **BirthdayGame** class "plays the game" and runs the simulations
-2. **Person** class holds a birthday as an int
+1. **BirthdayGame* hosts the game
+2. **Person** holds birthday as an int
 3. **PlotDataInExcel** gets the data and puts it into excel
-4. **TestBirthdayGame** contains the main, testing method.
+4. **TestBirthdayGame** runs the game.
 <br>
 
 **Other (Results):** <br>
