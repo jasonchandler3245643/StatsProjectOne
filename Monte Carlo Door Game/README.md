@@ -9,7 +9,7 @@ It shows that the odds of winning by swapping is 2/3, whereas the odds by stayin
 **Four Java files:**<br>
 1. **DoorGame** runs the game and keeps track of the wins. It uses an array of length 3 to keep track of each Door.
 Each game randomly assigns the winning door and the player's door. Then, typical games continue by checking if the
-player's door is winning. Alternatively, the game will reveal a dud door and give the player the opprotunity to swap
+player's Door is winning. Alternatively, the game will reveal a dud door and give the player the opprotunity to swap
 their door if true is passed through the constructor. The player will always swap their door if true is passed through
 its run method; the player will stick if false is passed.<br>
 
@@ -18,7 +18,7 @@ The slides for this assignment ask for only 4 lines of code in the main method; 
 illustrate the three probabilities: winning with original door, winning when swapping after reveal,
 and winning when sticking after reveal.<br>
 
-3. **Door:** holds two booleans. Status is true if the door is the winning door. Reveal is true if the door was revealed.<br>
+3. **Door:** holds two booleans. Status is true if the Door is the winning door. Reveal is true if the host revealed the Door <br>
 
 4. **Player:** holds a Door object representing the door they chose.<br><br>
 
