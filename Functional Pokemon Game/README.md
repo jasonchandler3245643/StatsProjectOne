@@ -18,7 +18,7 @@ will make exactly one of each deicision in that order if possible.<br>
 The game ends when a Player has 0 prize cards left, a Player has 0 cards in <br>
 their deck AND hand, or a Player has no active OR benched Pokemon. <br>
 
-## File Information
+## Content
 **Java Files:** 25 program files <br> <br>
 
 **Output Proof #1:** Screenshots of my output where I beat the computer.<br>
@@ -28,7 +28,6 @@ and finally winning because the computer no longer has an active and could not y
 
 **Output Proof #2:** Screenshots of my output where the computer beats me. This example shows off more of the Trainer<br>
 card functionalities as well as rapidly swapping cards from the hand/bench to active spot.
-
 
 ## Game Run Through
 1. The game verifies that each Player has a Pokemon in their opening hand. <br>
