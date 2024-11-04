@@ -6,7 +6,7 @@ Each individual assignment has its own folder with all relevant files and their 
 
 
 ## Essay
-1. **GitHub Essay:** An overview of why GitHub is important, Git, and how GitHub makes Git more accessible; describes how repositories work and some key words in the process of editing one.  
+1. **GitHub Essay:** An overview of why GitHub is important, Git, and how GitHub makes Git more accessible. Describes how repositories work and some key words in the process of editing one.  
 
 ## Formula Sheet
 1. **Formula Sheet (1.0-3.5):** Every textbook formula from Section 1.0 to 3.5 beautifully formatted in a Word document using the Equations feature. 
